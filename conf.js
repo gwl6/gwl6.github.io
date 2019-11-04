@@ -53,7 +53,7 @@ jsproxy_config({
     /**
      * 默认节点
      */
-    node_default: 'f.gwl.workers.dev',
+    node_default: '当前站点',
     // node_default: /jsproxy-demo\.\w+$/.test(location.host) ? 'demo-hk' : 'mysite',
 
     /**
